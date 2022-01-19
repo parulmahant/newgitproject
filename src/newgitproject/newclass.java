@@ -15,6 +15,8 @@ public class newclass {
 			System.out.println("correct");
 			
 		}
+		
+		System.out.println("compare main with branch1");
 			}
 
 	}
